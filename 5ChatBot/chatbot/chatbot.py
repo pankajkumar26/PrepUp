@@ -9,9 +9,9 @@ import time
 import os
 import random
 
-os.environ["_BARD_API_KEY"] = "eQgrkaLkZrpY7I5LkFfbyWxPPtGazvKK3mJ8A4RG62mVqO7TjWXyJ2SKN2jxtbVoXV2Txg."
+os.environ["_BARD_API_KEY"] = "YOUR BARD API KEY"
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="YOUE OPENAI API KEY")
 
 # def get_completion(prompt):
 #     response = Bard().get_answer(prompt)["content"]
