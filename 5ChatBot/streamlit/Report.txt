@@ -1,0 +1,14 @@
+
+
+Question: Tell me about yourself. 
+
+Answer: Sorry, I didn't understand 
+
+Review: Error: Unable to connect to the server. Please try again later.
+
+
+Question: What are your strengths? 
+
+Answer: Sorry, I didn't understand 
+
+Review: Error: Unable to connect to the server. Please try again later.

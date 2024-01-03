@@ -1,0 +1,21 @@
+
+
+Question: Can you describe a challenging situation you've faced at work? 
+
+Answer: is a lot of problems at work of your goods working on mute technology which includes new technology 
+
+Review: Error: Unable to connect to the server. Please try again later.
+
+
+Question: Tell me about yourself. 
+
+Answer: 20 years old I am currently pursuing BSc Data Analytics from Delhi University and I am looking forward for the post of software development engineer especially for the web development rules 
+
+Review: Error: Unable to connect to the server. Please try again later.
+
+
+Question: Tell me about yourself. 
+
+Answer:  
+
+Review: Error: Unable to connect to the server. Please try again later.
